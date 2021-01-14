@@ -1,3 +1,4 @@
+![League_Rankings](/images/rankings.jpg)
 # Project: Extract, Transform, and Load (ETL) data from League of Legends databases:
 
 ## *Background:* 
