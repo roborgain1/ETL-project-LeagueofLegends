@@ -11,7 +11,7 @@
 ### - Python was used to iterate through specific elements in the extracted Soup and to append chosen values to their previously created dataframe.
 ### - The dataframes were cleaned by dropping unncecessary columns, renaming/reordering columns, and sorted based on win-rates in descending order.
 ### - The three dataframes initially created were concatenated to a final dataframe with mixed rankings, sorted by win-rate, in order to compare champion win-rates between different league rankings
-### - All dataframe data wwas saved as csv's for additional/optional usage.
+### - All dataframes were saved in csv's for optional usage and storage.
     
 ## Loading:
 ### - pgAdmin4 was used with relational database postgreSQL to create a schema or table called league_winrates using the same columns contained in the concatenated_csv.csv and final dataframe created.
