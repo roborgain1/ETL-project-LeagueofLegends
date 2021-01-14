@@ -15,7 +15,7 @@
     
 ## Loading:
 ### - pgAdmin4 was used with relational database postgreSQL to create a schema or table called league_winrates using the same columns contained in the concatenated_csv.csv and final dataframe created.
-### - sqlAlchemy was used connect jupyter notebook to the table created with postgreSQL in pgAdmin's database, and Pandas was used to load the dataframe in.
+### - sqlAlchemy was used to connect jupyter notebook to the table created with postgreSQL in pgAdmin's database and Pandas was used to load the dataframe in.
 
 ## Conclusion: 
 ### postgreSQL was chosen to easily and quickly view/scroll through the 541 rows of data in the league_winrates table, as well as having high flexibility in selecting what data to observe in order to learn from the statistics. The Master tier contained the highest win-rates by far, but also the lowest win-rates, giving it the highest variation. The data may be skewed with more variance due to the smaller volume of players at higher rankings and thus a smaller sample. The champion Rumble, for example, was highly successful when played in the Master tier with a win-rate of 66.7% in the Top lane, while only having a win-rate of 48.7% in the Top lane when including Iron and above player statistics. This suggests that the skill cap on Rumble is high meaning those who master the champion in higher skill tiers are able to set themselves above the rest, while lower tier players have difficulty finding success. This data can be utilized by players who want to know what champions have the most success in the tier that they are currently playing in.
