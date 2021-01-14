@@ -1,8 +1,8 @@
+# Project: Extract, Transform, and Load (ETL) data from League of Legends databases:
+
 <p align="center">
   <img width="1400" height="140" src="https://leaguefeed.net/wp-content/uploads/2020/10/image1566790968.jpg">
 </p>
-
-# Project: Extract, Transform, and Load (ETL) data from League of Legends databases:
 
 ## *Background:* 
 ### The rankings used in League of Legends (LoL) from lowest-tier to highest-tier include: Iron, Bronze, Silver, Gold, Platinum, Diamond, and Master. The majority of LoL players find themselves in the lower tiers, with the higher tiers having a significantly lower volume of players. Each champion can fill one of five roles per game, which include: Top, Jungle, Mid, Bottom/AD Carry, and Support. The goal of this project was to compare the win-rates of specific champions and their roles based on player ranking.
