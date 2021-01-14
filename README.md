@@ -8,7 +8,7 @@
 </p>
 
 ## *Extraction:*
-### - HTML data was scraped from two Leauge of Legends websites using Beautiful Soup and Splinter (that contain champion statistics based on ranking/tier) into Jupyter Notebook.
+### - HTML data was scraped from two Leauge of Legends statistics websites using Beautiful Soup and Splinter with Jupyter Notebook.
     
 ## *Transformation:*
 ### - Pandas was used to create three dataframes to store champion data from different rankings (iron and above, platinum and above, and master tier).
