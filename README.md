@@ -1,4 +1,8 @@
-                           ![LoL_Rankings](/images/rankings.jpg)
+![LoL_Rankings](/images/rankings.jpg)
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 # Project: Extract, Transform, and Load (ETL) data from League of Legends databases:
 
 ## *Background:* 
