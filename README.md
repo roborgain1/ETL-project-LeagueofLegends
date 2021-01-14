@@ -1,7 +1,6 @@
-<p align="center>
-![LoL_Rankings](/images/rankings.jpg)
+<p align="center">
+  <img width="820" height="150" src="https://leaguefeed.net/wp-content/uploads/2020/10/image1566790968.jpg">
 </p>
-
 # Project: Extract, Transform, and Load (ETL) data from League of Legends databases:
 
 ## *Background:* 
