@@ -8,13 +8,13 @@
 </p>
 
 ## *Extraction:*
-### - HTML data was scraped from two Leauge of Legends statistics websites using Beautiful Soup and Splinter with Jupyter Notebook.
+### - HTML data was scraped from two League of Legends statistics websites using Beautiful Soup and Splinter with Jupyter Notebook.
     
 ## *Transformation:*
 ### - Pandas was used to create three dataframes to store champion data from different rankings (iron and above, platinum and above, and master tier).
 ### - Python was used to iterate through specific elements in the extracted Soup and to append chosen values to their previously created dataframe.
 ### - The dataframes were cleaned by dropping unncecessary columns, renaming/reordering columns, and sorted based on win-rates in descending order.
-### - The three dataframes initially created were concatenated to a final dataframe with mixed rankings, sorted by win-rate, in order to compare champion win-rates between different league rankings
+### - The three dataframes initially created were concatenated to a final dataframe with mixed rankings, sorted by win-rate, in order to compare champion win-rates between different league rankings.
 ### - All dataframes were saved in csv's for optional usage and storage.
     
 ## *Loading:*
